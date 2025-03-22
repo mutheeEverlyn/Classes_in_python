@@ -22,6 +22,6 @@ person1 = Person("Everlyn", 30, "Software Engineer")
 student1 = Student("Kamau", 16, "Student", 10, "Nanyuki High")
 
 
-print(person1.introduce()) # Output: Hi, my name is Everlyn. I am 30 years old and I work as a Software Engineer.
-print(student1.introduce()) # Output: Hi, my name is Kamau. I am 16 years old and I work as a Student.
-print(student1.study())  #output: Kamau is studying in grade 10 at Nanyuki High .
+print(person1.introduce())   # Output: Hi, my name is Everlyn. I am 30 years old and I work as a Software Engineer.
+print(student1.introduce())  # Output: Hi, my name is Kamau. I am 16 years old and I work as a Student.
+print(student1.study())      #output: Kamau is studying in grade 10 at Nanyuki High .
